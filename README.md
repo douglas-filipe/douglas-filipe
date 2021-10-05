@@ -1,7 +1,7 @@
 ### Olá, eu sou Douglas Filipe 👋
 
 - 🔭 Sou desenvolvedor front-end
-- 🌱 Estudando Typescript
+- 🌱 Estudando Python
 
  <div>
   <a href="https://github.com/douglas-filipe">
