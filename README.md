@@ -1,6 +1,13 @@
-### Olá, eu sou Douglas Filipe 👋
+## Olá, eu sou Douglas Filipe 👋
 
-- 🔭 Sou desenvolvedor Full Stack
+#### 🔭 Sou desenvolvedor Full Stack
+#### :man_technologist: Apaixonado por programação
+
+ 
+<img src="https://media.discordapp.net/attachments/935608920548978758/935610642382086274/2112.w030.n002.248B.p1.248.jpg?width=720&height=303" width="100%">
+
+---
+
 
  <div>
   <a href="https://github.com/douglas-filipe">
@@ -20,7 +27,7 @@
   <img align="center" alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-  
+
 
   ##
    
